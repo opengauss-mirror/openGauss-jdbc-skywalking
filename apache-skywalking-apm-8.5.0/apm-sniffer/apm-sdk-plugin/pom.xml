@@ -109,6 +109,8 @@
         <module>mssql-jtds-1.x-plugin</module>
         <module>mssql-jdbc-plugin</module>
         <module>cxf-3.x-plugin</module>
+        <module>opengauss-2.x-plugin</module>
+        <module>db2-luw-9.x-10.x-plugin</module>
     </modules>
     <packaging>pom</packaging>
 
