@@ -18,6 +18,8 @@
 
 package org.apache.skywalking.apm.plugin.jdbc.connectionurl.parser;
 
+import org.apache.skywalking.apm.agent.core.logging.api.ILog;
+import org.apache.skywalking.apm.agent.core.logging.api.LogManager;
 import org.apache.skywalking.apm.plugin.jdbc.trace.ConnectionInfo;
 
 /**
@@ -25,6 +27,7 @@ import org.apache.skywalking.apm.plugin.jdbc.trace.ConnectionInfo;
  * some url cannot be parsed, such as Oracle connection url with multiple host.
  */
 public class URLParser {
+    private static final ILog LOGGER = LogManager.getLogger(URLParser.class);
 
     private static final String MYSQL_JDBC_URL_PREFIX = "jdbc:mysql";
     private static final String ORACLE_JDBC_URL_PREFIX = "jdbc:oracle";
@@ -33,6 +36,8 @@ public class URLParser {
     private static final String MARIADB_JDBC_URL_PREFIX = "jdbc:mariadb";
     private static final String MSSQL_JTDS_URL_PREFIX = "jdbc:jtds:sqlserver:";
     private static final String MSSQL_JDBC_URL_PREFIX = "jdbc:sqlserver:";
+    private static final String DB2_JDBC_URL_PREFIX = "jdbc:db2:";
+    private static final String OPEN_GAUSS_JDBC_URL_PREFIX = "jdbc:opengauss:";
 
     public static ConnectionInfo parser(String url) {
         ConnectionURLParser parser = null;
@@ -51,6 +56,10 @@ public class URLParser {
             parser = new MssqlJtdsURLParser(url);
         } else if (lowerCaseUrl.startsWith(MSSQL_JDBC_URL_PREFIX)) {
             parser = new MssqlJdbcURLParser(url);
+        } else if (lowerCaseUrl.startsWith(DB2_JDBC_URL_PREFIX)) {
+            parser = new DB2UrlParser(url);
+        } else if (lowerCaseUrl.startsWith(OPEN_GAUSS_JDBC_URL_PREFIX)) {
+            parser = new OpenGaussURLParser(url);
         }
         return parser.parse();
     }
