@@ -350,6 +350,39 @@ Apache-CXF:
 dolphinscheduler:
   id: 106
   languages: Java
+JsonRpc:
+  id: 107
+  languages: Java
+seata:
+  id: 108
+  languages: Java
+MyBatis:
+  id: 109
+  languages: Java
+#tcp:
+#  id: 110
+#  languages: Java
+Tesla-Netty:
+  id: 110
+  languages: Java
+Tesla-GateWay:
+  id: 111
+  languages: Java
+Tesla-Framework:
+  id: 112
+  languages: Java
+db2-jdbc-driver:
+  id: 113
+  languages: Java
+DB2:
+  id: 114
+  languages: Java
+OpenGauss:
+  id: 115
+  languages: Java
+opengauss-jdbc-driver:
+  id: 116
+  languages: Java
 
 # .NET/.NET Core components
 # [3000, 4000) for C#/.NET only
@@ -458,7 +491,12 @@ GoMicroServer:
 Nginx:
   id: 6000
   languages: Lua
-
+Kong:
+  id: 6001
+  languages: Lua
+APISIX:
+  id: 6002
+  languages: Lua
 
 # [7000, 8000) are reserved for Python components
 Python:
@@ -572,3 +610,5 @@ Component-Server-Mappings:
   PyMysql: Mysql
   spring-kafka-consumer: kafka-consumer
   mssql-jdbc-driver: SqlServer
+  db2-jdbc-driver: DB2
+  opengauss-jdbc-driver: OpenGauss
