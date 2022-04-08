@@ -61,10 +61,10 @@ Agent 介质包目录
 ```
 
     
-#### openGauss-jdbc监控支持
+#### Postgresql 对 openGauss-jdbc监控支持
 
 OpenGauss数据库采用了与Postgresql相同的驱动方式，Skywalking 中已经对Postgresql做了支持，但是在新的Driver中官方提供的插件包存在部分不兼容情况，对此作了部分修正，将https://gitee.com/gitee_652781429/openGauss-jdbc-skywalking.git 中提供openGauss-jdbc-skywalking/ apm-postgresql-8.x-plugin-8.5.0.jar包进行替换，替换文件agent/plugin/目录下即可；
-进过测试已经对openGauss-connector-jdbc-2.0.0 和openGauss-connector-jdbc-2.0.1支持
+
 
 
 ##### 修正说明
@@ -110,6 +110,17 @@ postgresql-8.x-plugin/src/main/java/org/apache/skywalking/apm/plugin/jdbc/postgr
     }
 ```
 
+#### OpenGauss-jdbc监控支持
+
+基于openGauss-connector-jdbc-2.0.1 驱动，增加 opengauss-2.x-plugin 插件；
+
+将openGauss-jdbc-skywalking/ compile包下：
+apm-jdbc-commons-8.5.0.jar替换原 agent/plugins/apm-jdbc-commons-8.5.0.jar
+opengauss-2.x-plugin-8.5.0.jar 放到 agent/plugins/下
+
+skywalking-agent.jar 更新 agent/下的 skywalking-agent.jar 
+
+同时更新 component-libraries.yml 到 /apache-skywalking/config/component-libraries.yml
 
 #### 使用说明
 
