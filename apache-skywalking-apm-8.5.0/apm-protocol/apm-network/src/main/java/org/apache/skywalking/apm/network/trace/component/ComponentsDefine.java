@@ -194,4 +194,19 @@ public class ComponentsDefine {
     public static final OfficialComponent APACHE_CXF = new OfficialComponent(105, "Apache-CXF");
 
     public static final OfficialComponent DOLPHIN_SCHEDULER = new OfficialComponent(106, "dolphinscheduler");
+
+    public static final OfficialComponent JSON_RPC = new OfficialComponent(107, "JsonRpc");
+  
+    public static final OfficialComponent SEATA = new OfficialComponent(108, "Seata");
+
+    public static final OfficialComponent MYBATIS = new OfficialComponent(109, "MyBatis");
+
+    public static final OfficialComponent TESLA_NETTY = new OfficialComponent(110, "Tesla-Netty");
+
+    public static final OfficialComponent TESLA_GATEWAY = new OfficialComponent(111, "Tesla-Gateway");
+
+    public static final OfficialComponent TESLA_FRAMEWORK = new OfficialComponent(112, "Tesla-Framework");
+
+    public static final OfficialComponent DB2_JDBC_DRIVER = new OfficialComponent(113, "db2-jdbc-driver");
+
 }
