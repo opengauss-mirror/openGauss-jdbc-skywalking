@@ -1,0 +1,10 @@
+org\apache\skywalking\apm\plugin\activemq\define\ActiveMQProducerInstrumentation$2.class
+org\apache\skywalking\apm\plugin\activemq\define\ActiveMQConsumerInstrumentation.class
+org\apache\skywalking\apm\plugin\activemq\ActiveMQProducerInterceptor.class
+org\apache\skywalking\apm\plugin\activemq\ActiveMQConsumerInterceptor.class
+org\apache\skywalking\apm\plugin\activemq\define\ActiveMQProducerInstrumentation$1.class
+org\apache\skywalking\apm\plugin\activemq\define\ActiveMQConsumerInstrumentation$1.class
+org\apache\skywalking\apm\plugin\activemq\define\ActiveMQProducerInstrumentation.class
+org\apache\skywalking\apm\plugin\activemq\ActiveMQConsumerConstructorInterceptor.class
+org\apache\skywalking\apm\plugin\activemq\ActiveMQProducerConstructorInterceptor.class
+org\apache\skywalking\apm\plugin\activemq\define\ActiveMQConsumerInstrumentation$2.class

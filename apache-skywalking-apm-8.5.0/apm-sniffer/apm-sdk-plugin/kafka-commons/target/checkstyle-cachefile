@@ -1,0 +1,9 @@
+#Thu Jan 27 13:14:52 CST 2022
+configuration*?=4C05EBC6EC8F095E3C6482B8C1B6222FE281285A
+module-resource*?\:file\:/E\:/OpenS/sky/apache-skywalking-apm-8.5.0/apm-checkstyle/importControl.xml=ABFB67E42F7636913AA02614BA28721483B81EFC
+module-resource*?\:file\:/E\:/OpenS/sky/apache-skywalking-apm-8.5.0/apm-sniffer/apm-sdk-plugin/kafka-commons/target/checkstyle-header.txt=A0116A1C782CF424D8C4A7D2B281B784D1435163
+E\:\\OpenS\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\kafka-commons\\src\\main\\java\\org\\apache\\skywalking\\apm\\plugin\\kafka\\define\\AbstractKafkaTemplateInstrumentation.java=1617981489000
+E\:\\OpenS\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\kafka-commons\\src\\main\\java\\org\\apache\\skywalking\\apm\\plugin\\kafka\\CallbackAdapter.java=1617981489000
+E\:\\OpenS\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\kafka-commons\\src\\main\\java\\org\\apache\\skywalking\\apm\\plugin\\kafka\\define\\Constants.java=1617981489000
+E\:\\OpenS\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\kafka-commons\\src\\main\\java\\org\\apache\\skywalking\\apm\\plugin\\kafka\\define\\InterceptorMethod.java=1617981489000
+E\:\\OpenS\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\kafka-commons\\src\\main\\java\\org\\apache\\skywalking\\apm\\plugin\\kafka\\define\\KafkaContext.java=1617981489000

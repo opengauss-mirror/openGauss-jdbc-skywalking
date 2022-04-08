@@ -1,0 +1,6 @@
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\solrj-7.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\solrj\define\SolrClientInstrumentation.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\solrj-7.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\solrj\commons\SolrjTags.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\solrj-7.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\solrj\SolrClientInterceptor.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\solrj-7.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\solrj\SolrConnectorInterceptor.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\solrj-7.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\solrj\commons\SolrjInstance.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\solrj-7.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\solrj\SolrJPluginConfig.java

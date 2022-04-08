@@ -1,0 +1,7 @@
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\feign-default-http-9.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\feign\http\v9\DefaultHttpClientInterceptor.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\feign-default-http-9.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\feign\http\v9\define\DefaultHttpClientInstrumentation.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\feign-default-http-9.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\feign\http\v9\FeignPluginConfig.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\feign-default-http-9.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\feign\http\v9\LoadBalancerHttpClientInterceptor.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\feign-default-http-9.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\feign\http\v9\PathVarInterceptor.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\feign-default-http-9.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\feign\http\v9\FeignResolvedURL.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\feign-default-http-9.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\feign\http\v9\define\PathVarInstrumentation.java

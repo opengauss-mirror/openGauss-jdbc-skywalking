@@ -1,0 +1,3 @@
+org\apache\skywalking\apm\plugin\dubbo\patch\WrapperInstrumentation.class
+org\apache\skywalking\apm\plugin\dubbo\patch\MakeWrapperInterceptor.class
+org\apache\skywalking\apm\plugin\dubbo\patch\WrapperInstrumentation$1.class

@@ -1,0 +1,6 @@
+org\apache\skywalking\apm\plugin\nutz\mvc\define\ActionInstrumentation.class
+org\apache\skywalking\apm\plugin\nutz\mvc\PathMappingCache.class
+org\apache\skywalking\apm\plugin\nutz\mvc\define\ActionInstrumentation$1.class
+org\apache\skywalking\apm\plugin\nutz\mvc\define\ActionInstrumentation$2.class
+org\apache\skywalking\apm\plugin\nutz\mvc\ActionMethodInterceptor.class
+org\apache\skywalking\apm\plugin\nutz\mvc\ActionConstructorInterceptor.class

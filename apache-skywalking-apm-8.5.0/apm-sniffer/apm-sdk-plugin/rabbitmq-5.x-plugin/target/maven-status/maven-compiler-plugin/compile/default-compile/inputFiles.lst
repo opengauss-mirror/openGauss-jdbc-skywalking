@@ -1,0 +1,5 @@
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\rabbitmq-5.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\rabbitmq\RabbitMQProducerInterceptor.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\rabbitmq-5.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\rabbitmq\RabbitMQConsumerInterceptor.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\rabbitmq-5.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\rabbitmq\RabbitMQProducerAndConsumerConstructorInterceptor.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\rabbitmq-5.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\rabbitmq\define\RabbitMQProducerInstrumentation.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\rabbitmq-5.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\rabbitmq\define\RabbitMQConsumerInstrumentation.java

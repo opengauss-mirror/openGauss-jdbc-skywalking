@@ -1,0 +1,3 @@
+org\apache\skywalking\apm\plugin\esjob\JobExecutorInterceptor.class
+org\apache\skywalking\apm\plugin\esjob\define\JobExecutorInstrumentation$1.class
+org\apache\skywalking\apm\plugin\esjob\define\JobExecutorInstrumentation.class

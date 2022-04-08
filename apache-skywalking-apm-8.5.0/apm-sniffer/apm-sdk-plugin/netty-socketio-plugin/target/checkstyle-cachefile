@@ -1,0 +1,12 @@
+#Thu Jan 27 13:16:19 CST 2022
+E\:\\OpenS\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\netty-socketio-plugin\\src\\main\\java\\org\\apache\\skywalking\\apm\\plugin\\netty\\socketio\\NettySocketIOConstructorInterceptor.java=1617981489000
+configuration*?=BF32AE0C59C49748AF84BF4B9E62DB309B9E28DD
+module-resource*?\:file\:/E\:/OpenS/sky/apache-skywalking-apm-8.5.0/apm-checkstyle/importControl.xml=ABFB67E42F7636913AA02614BA28721483B81EFC
+E\:\\OpenS\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\netty-socketio-plugin\\src\\main\\java\\org\\apache\\skywalking\\apm\\plugin\\netty\\socketio\\NettySocketIOClientInfo.java=1617981489000
+E\:\\OpenS\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\netty-socketio-plugin\\src\\main\\java\\org\\apache\\skywalking\\apm\\plugin\\netty\\socketio\\define\\NettySocketIOPluginClientInstrumentation.java=1617981489000
+module-resource*?\:file\:/E\:/OpenS/sky/apache-skywalking-apm-8.5.0/apm-sniffer/apm-sdk-plugin/netty-socketio-plugin/target/checkstyle-header.txt=A0116A1C782CF424D8C4A7D2B281B784D1435163
+E\:\\OpenS\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\netty-socketio-plugin\\src\\main\\java\\org\\apache\\skywalking\\apm\\plugin\\netty\\socketio\\NettySocketIOConnectionInterceptor.java=1617981489000
+E\:\\OpenS\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\netty-socketio-plugin\\src\\main\\java\\org\\apache\\skywalking\\apm\\plugin\\netty\\socketio\\define\\NettySocketIOPluginNameSpaceInstrumentation.java=1617981489000
+E\:\\OpenS\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\netty-socketio-plugin\\src\\main\\java\\org\\apache\\skywalking\\apm\\plugin\\netty\\socketio\\NettySocketIORoomInterceptor.java=1617981489000
+E\:\\OpenS\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\netty-socketio-plugin\\src\\main\\java\\org\\apache\\skywalking\\apm\\plugin\\netty\\socketio\\NettySocketIOOnEventInterceptor.java=1617981489000
+E\:\\OpenS\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\netty-socketio-plugin\\src\\test\\java\\org\\apache\\skywalking\\apm\\plugin\\netty\\socketio\\NettySocketIOTest.java=1617981489000

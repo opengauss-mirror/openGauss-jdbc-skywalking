@@ -1,0 +1,10 @@
+org\apache\skywalking\apm\plugin\httpClient\v4\define\InternalHttpClientInstrumentation$1.class
+org\apache\skywalking\apm\plugin\httpClient\v4\HttpClientExecuteInterceptor.class
+org\apache\skywalking\apm\plugin\httpClient\v4\define\AbstractHttpClientInstrumentation.class
+org\apache\skywalking\apm\plugin\httpClient\v4\define\DefaultRequestDirectorInstrumentation.class
+org\apache\skywalking\apm\plugin\httpClient\v4\define\HttpClientInstrumentation.class
+org\apache\skywalking\apm\plugin\httpClient\v4\define\MinimalHttpClientInstrumentation$1.class
+org\apache\skywalking\apm\plugin\httpClient\v4\define\AbstractHttpClientInstrumentation$1.class
+org\apache\skywalking\apm\plugin\httpClient\v4\define\InternalHttpClientInstrumentation.class
+org\apache\skywalking\apm\plugin\httpClient\v4\define\DefaultRequestDirectorInstrumentation$1.class
+org\apache\skywalking\apm\plugin\httpClient\v4\define\MinimalHttpClientInstrumentation.class

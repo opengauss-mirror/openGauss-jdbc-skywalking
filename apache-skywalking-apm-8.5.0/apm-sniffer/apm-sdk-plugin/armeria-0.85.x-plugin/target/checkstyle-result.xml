@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\armeria-0.85.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\armeria\Armeria085ClientInterceptor.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\armeria-0.85.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\armeria\Armeria085ServerInterceptor.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\armeria-0.85.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\armeria\Armeria086ClientInterceptor.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\armeria-0.85.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\armeria\Armeria098ClientInterceptor.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\armeria-0.85.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\armeria\ArmeriaClientInterceptor.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\armeria-0.85.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\armeria\define\Armeria085ClientInstrumentation.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\armeria-0.85.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\armeria\define\Armeria085ServerInstrumentation.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\armeria-0.85.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\armeria\define\Armeria086ClientInstrumentation.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\armeria-0.85.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\armeria\define\Armeria098ClientInstrumentation.java">
+</file>
+</checkstyle>

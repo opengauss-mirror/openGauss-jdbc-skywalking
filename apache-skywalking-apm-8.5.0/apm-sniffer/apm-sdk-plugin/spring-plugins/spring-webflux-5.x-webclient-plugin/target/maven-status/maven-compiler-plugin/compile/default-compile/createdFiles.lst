@@ -1,0 +1,7 @@
+org\apache\skywalking\apm\plugin\spring\webflux\v5\webclient\define\BodyInserterRequestInstrumentation$1.class
+org\apache\skywalking\apm\plugin\spring\webflux\v5\webclient\define\WebFluxWebClientInstrumentation$1.class
+org\apache\skywalking\apm\plugin\spring\webflux\v5\webclient\WebFluxWebClientInterceptor.class
+org\apache\skywalking\apm\plugin\spring\webflux\v5\webclient\BodyInserterRequestInterceptor.class
+org\apache\skywalking\apm\plugin\spring\webflux\v5\webclient\define\BodyInserterRequestInstrumentation.class
+org\apache\skywalking\apm\plugin\spring\webflux\v5\webclient\WebFluxWebClientInterceptor$1.class
+org\apache\skywalking\apm\plugin\spring\webflux\v5\webclient\define\WebFluxWebClientInstrumentation.class

@@ -1,0 +1,14 @@
+org\apache\skywalking\apm\plugin\shardingsphere\v41\define\ParseInstrumentation$1.class
+org\apache\skywalking\apm\plugin\shardingsphere\v41\define\ExecuteInstrumentation.class
+org\apache\skywalking\apm\plugin\shardingsphere\v41\define\JDBCRootInvokeInstrumentation$1.class
+org\apache\skywalking\apm\plugin\shardingsphere\v41\define\JDBCRootInvokeInstrumentation.class
+org\apache\skywalking\apm\plugin\shardingsphere\v41\define\ExecuteInstrumentation$1.class
+org\apache\skywalking\apm\plugin\shardingsphere\v41\define\ProxyRootInvokeInstrumentation$1.class
+org\apache\skywalking\apm\plugin\shardingsphere\v41\define\ParseInstrumentation.class
+org\apache\skywalking\apm\plugin\shardingsphere\v41\define\AbstractShardingSphere41Instrumentation.class
+org\apache\skywalking\apm\plugin\shardingsphere\v41\define\ProxyRootInvokeInstrumentation.class
+org\apache\skywalking\apm\plugin\shardingsphere\v41\Constant.class
+org\apache\skywalking\apm\plugin\shardingsphere\v41\ParseInterceptor.class
+org\apache\skywalking\apm\plugin\shardingsphere\v41\ExecuteInterceptor.class
+org\apache\skywalking\apm\plugin\shardingsphere\v41\ProxyRootInvokeInterceptor.class
+org\apache\skywalking\apm\plugin\shardingsphere\v41\JDBCRootInvokeInterceptor.class

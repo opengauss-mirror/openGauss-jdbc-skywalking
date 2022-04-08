@@ -1,0 +1,3 @@
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\spring-plugins\spring-kafka-1.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\spring\kafka\PostRunMethodInterceptor.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\spring-plugins\spring-kafka-1.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\spring\kafka\ProcessSeeksMethodInterceptor.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\spring-plugins\spring-kafka-1.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\spring\kafka\define\LegacyListenerConsumerInstrumentation.java

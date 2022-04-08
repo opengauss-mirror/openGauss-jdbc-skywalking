@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Implementation-Title: cluster-nacos-plugin
+Implementation-Version: 8.5.0
+Built-By: admin
+Specification-Vendor: The Apache Software Foundation
+Specification-Title: cluster-nacos-plugin
+Implementation-Vendor-Id: org.apache.skywalking
+Build-Jdk: 1.8.0_111
+Specification-Version: 8.5
+Implementation-URL: https://github.com/apache/skywalking/oap-server/se
+ rver-cluster-plugin/cluster-nacos-plugin
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: The Apache Software Foundation
+

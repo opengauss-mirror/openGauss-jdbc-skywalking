@@ -1,0 +1,3 @@
+org\apache\skywalking\apm\plugin\jetty\v90\client\SyncHttpRequestSendInterceptor.class
+org\apache\skywalking\apm\plugin\jetty\v90\client\define\HttpRequestInstrumentation.class
+org\apache\skywalking\apm\plugin\jetty\v90\client\define\HttpRequestInstrumentation$1.class

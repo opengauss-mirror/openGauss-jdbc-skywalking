@@ -1,0 +1,5 @@
+org\apache\skywalking\apm\plugin\kafka\define\InterceptorMethod.class
+org\apache\skywalking\apm\plugin\kafka\define\KafkaContext.class
+org\apache\skywalking\apm\plugin\kafka\CallbackAdapter.class
+org\apache\skywalking\apm\plugin\kafka\define\Constants.class
+org\apache\skywalking\apm\plugin\kafka\define\AbstractKafkaTemplateInstrumentation.class

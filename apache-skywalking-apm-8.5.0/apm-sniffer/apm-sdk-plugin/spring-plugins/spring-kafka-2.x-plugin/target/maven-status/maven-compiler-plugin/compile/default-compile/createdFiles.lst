@@ -1,0 +1,6 @@
+org\apache\skywalking\apm\plugin\spring\kafka\define\KafkaTemplateInstrumentation.class
+org\apache\skywalking\apm\plugin\spring\kafka\PollAndInvokeMethodInterceptor.class
+org\apache\skywalking\apm\plugin\spring\kafka\define\ListenerConsumerInstrumentation.class
+org\apache\skywalking\apm\plugin\spring\kafka\define\KafkaTemplateInstrumentation$1.class
+org\apache\skywalking\apm\plugin\spring\kafka\define\ListenerConsumerInstrumentation$1.class
+org\apache\skywalking\apm\plugin\spring\kafka\KafkaTemplateCallbackInterceptor.class

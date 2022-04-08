@@ -1,0 +1,7 @@
+org\apache\skywalking\apm\plugin\motan\MotanConsumerInterceptor.class
+org\apache\skywalking\apm\plugin\motan\define\MotanConsumerInstrumentation$1.class
+org\apache\skywalking\apm\plugin\motan\define\MotanConsumerInstrumentation.class
+org\apache\skywalking\apm\plugin\motan\define\MotanProviderInstrumentation$1.class
+org\apache\skywalking\apm\plugin\motan\MotanProviderInterceptor.class
+org\apache\skywalking\apm\plugin\motan\define\MotanProviderInstrumentation.class
+org\apache\skywalking\apm\plugin\motan\define\MotanConsumerInstrumentation$2.class

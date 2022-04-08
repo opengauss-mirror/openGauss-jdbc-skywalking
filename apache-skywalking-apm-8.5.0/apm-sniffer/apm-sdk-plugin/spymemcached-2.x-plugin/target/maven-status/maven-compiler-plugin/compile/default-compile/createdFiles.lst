@@ -1,0 +1,5 @@
+org\apache\skywalking\apm\plugin\spymemcached\v2\define\MemcachedInstrumentation$2.class
+org\apache\skywalking\apm\plugin\spymemcached\v2\define\MemcachedInstrumentation$1.class
+org\apache\skywalking\apm\plugin\spymemcached\v2\define\MemcachedInstrumentation.class
+org\apache\skywalking\apm\plugin\spymemcached\v2\MemcachedMethodInterceptor.class
+org\apache\skywalking\apm\plugin\spymemcached\v2\MemcachedConstructorWithInetSocketAddressListArgInterceptor.class

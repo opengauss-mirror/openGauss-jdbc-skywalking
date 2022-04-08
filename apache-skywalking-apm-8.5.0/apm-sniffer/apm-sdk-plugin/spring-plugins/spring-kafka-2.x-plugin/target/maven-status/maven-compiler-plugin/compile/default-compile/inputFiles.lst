@@ -1,0 +1,4 @@
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\spring-plugins\spring-kafka-2.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\spring\kafka\define\KafkaTemplateInstrumentation.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\spring-plugins\spring-kafka-2.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\spring\kafka\define\ListenerConsumerInstrumentation.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\spring-plugins\spring-kafka-2.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\spring\kafka\KafkaTemplateCallbackInterceptor.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\spring-plugins\spring-kafka-2.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\spring\kafka\PollAndInvokeMethodInterceptor.java

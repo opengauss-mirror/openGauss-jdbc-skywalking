@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\hystrix-1.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\hystrix\v1\Constants.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\hystrix-1.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\hystrix\v1\define\HystrixCommandInstrumentation.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\hystrix-1.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\hystrix\v1\define\HystrixPluginsInstrumentation.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\hystrix-1.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\hystrix\v1\EnhanceRequireObjectCache.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\hystrix-1.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\hystrix\v1\HystrixCommandConstructorInterceptor.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\hystrix-1.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\hystrix\v1\HystrixCommandGetFallbackInterceptor.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\hystrix-1.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\hystrix\v1\HystrixCommandRunInterceptor.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\hystrix-1.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\hystrix\v1\HystrixConcurrencyStrategyInterceptor.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\hystrix-1.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\hystrix\v1\HystrixPluginsInterceptor.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\hystrix-1.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\hystrix\v1\SWExecutionHookWrapper.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\hystrix-1.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\hystrix\v1\SWHystrixConcurrencyStrategyWrapper.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\hystrix-1.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\hystrix\v1\SWHystrixLifecycleForwardingRequestVariable.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\hystrix-1.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\hystrix\v1\SWHystrixPluginsWrapperCache.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\hystrix-1.x-plugin\src\test\java\org\apache\skywalking\apm\plugin\hystrix\v1\HystrixConcurrencyStrategyInterceptorTest.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\hystrix-1.x-plugin\src\test\java\org\apache\skywalking\apm\plugin\hystrix\v1\HystrixPluginsInterceptorTest.java">
+</file>
+</checkstyle>

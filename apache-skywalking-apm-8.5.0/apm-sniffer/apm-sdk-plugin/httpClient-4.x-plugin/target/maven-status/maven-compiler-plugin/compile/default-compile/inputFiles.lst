@@ -1,0 +1,6 @@
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\httpClient-4.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\httpClient\v4\HttpClientExecuteInterceptor.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\httpClient-4.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\httpClient\v4\define\HttpClientInstrumentation.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\httpClient-4.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\httpClient\v4\define\DefaultRequestDirectorInstrumentation.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\httpClient-4.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\httpClient\v4\define\InternalHttpClientInstrumentation.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\httpClient-4.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\httpClient\v4\define\MinimalHttpClientInstrumentation.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\httpClient-4.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\httpClient\v4\define\AbstractHttpClientInstrumentation.java

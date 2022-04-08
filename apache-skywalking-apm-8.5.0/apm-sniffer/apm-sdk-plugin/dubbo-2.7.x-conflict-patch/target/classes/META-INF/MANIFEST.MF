@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Title: apm-dubbo-2.7.x-conflict-path
+Implementation-Version: 8.5.0
+Built-By: admin
+Specification-Vendor: The Apache Software Foundation
+Specification-Title: apm-dubbo-2.7.x-conflict-path
+Implementation-Vendor-Id: org.apache.skywalking
+Build-Jdk: 1.8.0_111
+Specification-Version: 8.5
+Implementation-URL: http://maven.apache.org/dubbo-2.7.x-conflict-patch
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: The Apache Software Foundation
+

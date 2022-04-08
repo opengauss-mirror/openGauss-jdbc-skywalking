@@ -1,0 +1,13 @@
+#Thu Jan 27 13:14:36 CST 2022
+E\:\\OpenS\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\feign-default-http-9.x-plugin\\src\\test\\java\\org\\apache\\skywalking\\apm\\plugin\\feign\\http\\v9\\PathVarInterceptorTest.java=1617981489000
+module-resource*?\:file\:/E\:/OpenS/sky/apache-skywalking-apm-8.5.0/apm-checkstyle/importControl.xml=ABFB67E42F7636913AA02614BA28721483B81EFC
+configuration*?=D0E38EEA852EFE10F7B59F7BAEA85B161F20AF7
+E\:\\OpenS\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\feign-default-http-9.x-plugin\\src\\main\\java\\org\\apache\\skywalking\\apm\\plugin\\feign\\http\\v9\\PathVarInterceptor.java=1617981489000
+module-resource*?\:file\:/E\:/OpenS/sky/apache-skywalking-apm-8.5.0/apm-sniffer/apm-sdk-plugin/feign-default-http-9.x-plugin/target/checkstyle-header.txt=A0116A1C782CF424D8C4A7D2B281B784D1435163
+E\:\\OpenS\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\feign-default-http-9.x-plugin\\src\\main\\java\\org\\apache\\skywalking\\apm\\plugin\\feign\\http\\v9\\DefaultHttpClientInterceptor.java=1617981489000
+E\:\\OpenS\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\feign-default-http-9.x-plugin\\src\\main\\java\\org\\apache\\skywalking\\apm\\plugin\\feign\\http\\v9\\LoadBalancerHttpClientInterceptor.java=1617981489000
+E\:\\OpenS\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\feign-default-http-9.x-plugin\\src\\main\\java\\org\\apache\\skywalking\\apm\\plugin\\feign\\http\\v9\\define\\PathVarInstrumentation.java=1617981489000
+E\:\\OpenS\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\feign-default-http-9.x-plugin\\src\\main\\java\\org\\apache\\skywalking\\apm\\plugin\\feign\\http\\v9\\define\\DefaultHttpClientInstrumentation.java=1617981489000
+E\:\\OpenS\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\feign-default-http-9.x-plugin\\src\\main\\java\\org\\apache\\skywalking\\apm\\plugin\\feign\\http\\v9\\FeignResolvedURL.java=1617981489000
+E\:\\OpenS\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\feign-default-http-9.x-plugin\\src\\main\\java\\org\\apache\\skywalking\\apm\\plugin\\feign\\http\\v9\\FeignPluginConfig.java=1617981489000
+E\:\\OpenS\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\feign-default-http-9.x-plugin\\src\\test\\java\\org\\apache\\skywalking\\apm\\plugin\\feign\\http\\v9\\DefaultHttpClientInterceptorTest.java=1617981489000

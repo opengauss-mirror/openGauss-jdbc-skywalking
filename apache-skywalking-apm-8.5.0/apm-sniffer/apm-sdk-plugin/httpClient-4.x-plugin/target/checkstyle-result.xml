@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\httpClient-4.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\httpClient\v4\define\AbstractHttpClientInstrumentation.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\httpClient-4.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\httpClient\v4\define\DefaultRequestDirectorInstrumentation.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\httpClient-4.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\httpClient\v4\define\HttpClientInstrumentation.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\httpClient-4.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\httpClient\v4\define\InternalHttpClientInstrumentation.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\httpClient-4.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\httpClient\v4\define\MinimalHttpClientInstrumentation.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\httpClient-4.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\httpClient\v4\HttpClientExecuteInterceptor.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\httpClient-4.x-plugin\src\test\java\org\apache\skywalking\apm\plugin\httpClient\v4\HttpClientExecuteInterceptorTest.java">
+</file>
+</checkstyle>

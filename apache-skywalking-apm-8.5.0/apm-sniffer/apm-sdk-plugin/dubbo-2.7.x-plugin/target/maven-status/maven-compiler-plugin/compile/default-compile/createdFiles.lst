@@ -1,0 +1,6 @@
+org\apache\skywalking\apm\plugin\asf\dubbo\DubboPluginConfig$Plugin.class
+org\apache\skywalking\apm\plugin\asf\dubbo\DubboPluginConfig.class
+org\apache\skywalking\apm\plugin\asf\dubbo\DubboInstrumentation$1.class
+org\apache\skywalking\apm\plugin\asf\dubbo\DubboInstrumentation.class
+org\apache\skywalking\apm\plugin\asf\dubbo\DubboInterceptor.class
+org\apache\skywalking\apm\plugin\asf\dubbo\DubboPluginConfig$Plugin$Dubbo.class

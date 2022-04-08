@@ -1,0 +1,7 @@
+#Thu Jan 27 13:14:56 CST 2022
+configuration*?=850ECFCDAA4EC943AE5BB3152B607853F58086C7
+module-resource*?\:file\:/E\:/OpenS/sky/apache-skywalking-apm-8.5.0/apm-checkstyle/importControl.xml=ABFB67E42F7636913AA02614BA28721483B81EFC
+module-resource*?\:file\:/E\:/OpenS/sky/apache-skywalking-apm-8.5.0/apm-sniffer/apm-sdk-plugin/struts2-2.x-plugin/target/checkstyle-header.txt=A0116A1C782CF424D8C4A7D2B281B784D1435163
+E\:\\OpenS\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\struts2-2.x-plugin\\src\\test\\java\\org\\apache\\skywalking\\apm\\plugin\\struts2\\Struts2InterceptorTest.java=1617981489000
+E\:\\OpenS\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\struts2-2.x-plugin\\src\\main\\java\\org\\apache\\skywalking\\apm\\plugin\\struts2\\Struts2Interceptor.java=1617981489000
+E\:\\OpenS\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\struts2-2.x-plugin\\src\\main\\java\\org\\apache\\skywalking\\apm\\plugin\\struts2\\define\\Struts2Instrumentation.java=1617981489000

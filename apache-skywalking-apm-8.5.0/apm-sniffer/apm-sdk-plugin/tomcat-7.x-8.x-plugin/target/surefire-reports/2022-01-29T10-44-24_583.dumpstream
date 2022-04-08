@@ -1,0 +1,15 @@
+# Created at 2022-01-29T10:44:24.585
+WARNING: An illegal reflective access operation has occurred
+
+# Created at 2022-01-29T10:44:24.586
+WARNING: Illegal reflective access by org.powermock.reflect.internal.WhiteboxImpl (file:/D:/IDE/maven_libs2/org/powermock/powermock-reflect/2.0.7/powermock-reflect-2.0.7.jar) to method java.lang.Object.clone()
+
+# Created at 2022-01-29T10:44:24.587
+WARNING: Please consider reporting this to the maintainers of org.powermock.reflect.internal.WhiteboxImpl
+
+# Created at 2022-01-29T10:44:24.588
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created at 2022-01-29T10:44:24.588
+WARNING: All illegal access operations will be denied in a future release
+

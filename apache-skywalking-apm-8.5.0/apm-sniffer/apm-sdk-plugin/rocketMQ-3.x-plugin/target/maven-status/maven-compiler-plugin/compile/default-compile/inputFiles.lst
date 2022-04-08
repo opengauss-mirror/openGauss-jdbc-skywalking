@@ -1,0 +1,12 @@
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\rocketMQ-3.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\rocketMQ\v3\MessageConcurrentlyConsumeInterceptor.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\rocketMQ-3.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\rocketMQ\v3\define\MQClientAPIImplInstrumentation.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\rocketMQ-3.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\rocketMQ\v3\AbstractMessageConsumeInterceptor.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\rocketMQ-3.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\rocketMQ\v3\MessageSendInterceptor.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\rocketMQ-3.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\rocketMQ\v3\OnSuccessInterceptor.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\rocketMQ-3.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\rocketMQ\v3\define\ConsumeMessageOrderlyInstrumentation.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\rocketMQ-3.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\rocketMQ\v3\define\SendCallbackInstrumentation.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\rocketMQ-3.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\rocketMQ\v3\define\SendCallBackEnhanceInfo.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\rocketMQ-3.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\rocketMQ\v3\define\ConsumeMessageConcurrentlyInstrumentation.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\rocketMQ-3.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\rocketMQ\v3\UpdateNameServerInterceptor.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\rocketMQ-3.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\rocketMQ\v3\MessageOrderlyConsumeInterceptor.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\rocketMQ-3.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\rocketMQ\v3\OnExceptionInterceptor.java

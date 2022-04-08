@@ -1,0 +1,6 @@
+org\apache\skywalking\apm\plugin\sofarpc\SofaRpcProviderInstrumentation$1.class
+org\apache\skywalking\apm\plugin\sofarpc\SofaRpcConsumerInstrumentation$1.class
+org\apache\skywalking\apm\plugin\sofarpc\SofaRpcConsumerInstrumentation.class
+org\apache\skywalking\apm\plugin\sofarpc\SofaRpcProviderInterceptor.class
+org\apache\skywalking\apm\plugin\sofarpc\SofaRpcProviderInstrumentation.class
+org\apache\skywalking\apm\plugin\sofarpc\SofaRpcConsumerInterceptor.class

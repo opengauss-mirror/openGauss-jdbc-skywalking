@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\redisson-3.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\redisson\v3\ConnectionManagerInterceptor.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\redisson-3.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\redisson\v3\define\ConnectionManagerInstrumentation.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\redisson-3.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\redisson\v3\define\RedisClientInstrumentation.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\redisson-3.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\redisson\v3\define\RedisConnectionInstrumentation.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\redisson-3.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\redisson\v3\RedisClientConstructorInterceptor.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\redisson-3.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\redisson\v3\RedisConnectionMethodInterceptor.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\redisson-3.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\redisson\v3\util\ClassUtil.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\redisson-3.x-plugin\src\test\java\org\apache\skywalking\apm\plugin\redisson\v3\RedisConnectionMethodInterceptorTest.java">
+</file>
+</checkstyle>

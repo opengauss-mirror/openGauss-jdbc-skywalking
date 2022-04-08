@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.skywalking.apm.agent.core.logging.core.PatternLogResolverTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 s - in org.apache.skywalking.apm.agent.core.logging.core.PatternLogResolverTest

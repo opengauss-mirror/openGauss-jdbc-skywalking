@@ -1,0 +1,3 @@
+org\apache\skywalking\apm\plugin\struts2\define\Struts2Instrumentation$1.class
+org\apache\skywalking\apm\plugin\struts2\Struts2Interceptor.class
+org\apache\skywalking\apm\plugin\struts2\define\Struts2Instrumentation.class

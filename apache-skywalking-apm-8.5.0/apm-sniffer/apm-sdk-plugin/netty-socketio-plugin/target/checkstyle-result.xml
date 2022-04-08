@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\netty-socketio-plugin\src\main\java\org\apache\skywalking\apm\plugin\netty\socketio\define\NettySocketIOPluginClientInstrumentation.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\netty-socketio-plugin\src\main\java\org\apache\skywalking\apm\plugin\netty\socketio\define\NettySocketIOPluginNameSpaceInstrumentation.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\netty-socketio-plugin\src\main\java\org\apache\skywalking\apm\plugin\netty\socketio\NettySocketIOClientInfo.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\netty-socketio-plugin\src\main\java\org\apache\skywalking\apm\plugin\netty\socketio\NettySocketIOConnectionInterceptor.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\netty-socketio-plugin\src\main\java\org\apache\skywalking\apm\plugin\netty\socketio\NettySocketIOConstructorInterceptor.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\netty-socketio-plugin\src\main\java\org\apache\skywalking\apm\plugin\netty\socketio\NettySocketIOOnEventInterceptor.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\netty-socketio-plugin\src\main\java\org\apache\skywalking\apm\plugin\netty\socketio\NettySocketIORoomInterceptor.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\netty-socketio-plugin\src\test\java\org\apache\skywalking\apm\plugin\netty\socketio\NettySocketIOTest.java">
+</file>
+</checkstyle>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\solrj-7.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\solrj\commons\SolrjInstance.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\solrj-7.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\solrj\commons\SolrjTags.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\solrj-7.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\solrj\define\SolrClientInstrumentation.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\solrj-7.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\solrj\SolrClientInterceptor.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\solrj-7.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\solrj\SolrConnectorInterceptor.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\solrj-7.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\solrj\SolrJPluginConfig.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\solrj-7.x-plugin\src\test\java\org\apache\skywalking\apm\plugin\solrj\SolrClientInterceptorTest.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\solrj-7.x-plugin\src\test\java\org\apache\skywalking\apm\plugin\solrj\StringFormatBenchmarkTest.java">
+</file>
+</checkstyle>

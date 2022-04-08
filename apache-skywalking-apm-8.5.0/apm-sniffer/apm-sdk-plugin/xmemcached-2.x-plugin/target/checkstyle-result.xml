@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\xmemcached-2.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\xmemcached\v2\define\XMemcachedInstrumentation.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\xmemcached-2.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\xmemcached\v2\XMemcachedConstructorWithComplexArgInterceptor.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\xmemcached-2.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\xmemcached\v2\XMemcachedConstructorWithHostPortArgInterceptor.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\xmemcached-2.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\xmemcached\v2\XMemcachedConstructorWithInetSocketAddressArgInterceptor.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\xmemcached-2.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\xmemcached\v2\XMemcachedConstructorWithInetSocketAddressListArgInterceptor.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\xmemcached-2.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\xmemcached\v2\XMemcachedMethodInterceptor.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\xmemcached-2.x-plugin\src\test\java\org\apache\skywalking\apm\plugin\xmemcached\v2\XMemcachedConstructorWithComplexArgInterceptorTest.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\xmemcached-2.x-plugin\src\test\java\org\apache\skywalking\apm\plugin\xmemcached\v2\XMemcachedConstructorWithHostPortArgInterceptorTest.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\xmemcached-2.x-plugin\src\test\java\org\apache\skywalking\apm\plugin\xmemcached\v2\XMemcachedConstructorWithInetSocketAddressArgInterceptorTest.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\xmemcached-2.x-plugin\src\test\java\org\apache\skywalking\apm\plugin\xmemcached\v2\XMemcachedConstructorWithInetSocketAddressListArgInterceptorTest.java">
+</file>
+<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\xmemcached-2.x-plugin\src\test\java\org\apache\skywalking\apm\plugin\xmemcached\v2\XMemcachedMethodInterceptorTest.java">
+</file>
+</checkstyle>

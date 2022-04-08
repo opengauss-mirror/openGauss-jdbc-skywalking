@@ -1,0 +1,17 @@
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\kafka-plugin\src\main\java\org\apache\skywalking\apm\plugin\kafka\ConsumerEnhanceRequiredInfo.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\kafka-plugin\src\main\java\org\apache\skywalking\apm\plugin\kafka\CallbackAdapterInterceptor.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\kafka-plugin\src\main\java\org\apache\skywalking\apm\plugin\kafka\CallbackInterceptor.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\kafka-plugin\src\main\java\org\apache\skywalking\apm\plugin\kafka\ConsumerConstructorInterceptor.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\kafka-plugin\src\main\java\org\apache\skywalking\apm\plugin\kafka\KafkaConsumerInterceptor.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\kafka-plugin\src\main\java\org\apache\skywalking\apm\plugin\kafka\CallbackConstructorInterceptor.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\kafka-plugin\src\main\java\org\apache\skywalking\apm\plugin\kafka\define\KafkaProducerMapInstrumentation.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\kafka-plugin\src\main\java\org\apache\skywalking\apm\plugin\kafka\define\AbstractKafkaInstrumentation.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\kafka-plugin\src\main\java\org\apache\skywalking\apm\plugin\kafka\define\KafkaProducerInstrumentation.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\kafka-plugin\src\main\java\org\apache\skywalking\apm\plugin\kafka\KafkaProducerInterceptor.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\kafka-plugin\src\main\java\org\apache\skywalking\apm\plugin\kafka\SubscribeMethodInterceptor.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\kafka-plugin\src\main\java\org\apache\skywalking\apm\plugin\kafka\define\KafkaConsumerInstrumentation.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\kafka-plugin\src\main\java\org\apache\skywalking\apm\plugin\kafka\define\KafkaTemplateCallbackInstrumentation.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\kafka-plugin\src\main\java\org\apache\skywalking\apm\plugin\kafka\CallbackCache.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\kafka-plugin\src\main\java\org\apache\skywalking\apm\plugin\kafka\define\CallbackInstrumentation.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\kafka-plugin\src\main\java\org\apache\skywalking\apm\plugin\kafka\ProducerConstructorMapInterceptor.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\kafka-plugin\src\main\java\org\apache\skywalking\apm\plugin\kafka\ProducerConstructorInterceptor.java

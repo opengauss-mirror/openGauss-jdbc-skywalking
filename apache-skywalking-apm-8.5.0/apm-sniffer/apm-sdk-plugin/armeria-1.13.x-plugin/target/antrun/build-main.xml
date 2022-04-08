@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <taskdef resource="net/sf/antcontrib/antcontrib.properties" classpathref="maven.runtime.classpath"/>
+  <if>
+    <equals arg2="jar" arg1="jar"/>
+    <then>
+      <mkdir dir="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\armeria-1.13.x-plugin\target/../../../../skywalking-agent/plugins"/>
+      <copy file="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\armeria-1.13.x-plugin\target/apm-armeria-1.13.x-plugin-8.5.0.jar" tofile="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\armeria-1.13.x-plugin\target/../../../../skywalking-agent/plugins/apm-armeria-1.13.x-plugin-8.5.0.jar" overwrite="true"/>
+    </then>
+  </if>
+</target>
+</project>

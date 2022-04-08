@@ -1,0 +1,11 @@
+org\apache\skywalking\apm\plugin\xmemcached\v2\define\XMemcachedInstrumentation$2.class
+org\apache\skywalking\apm\plugin\xmemcached\v2\XMemcachedConstructorWithInetSocketAddressArgInterceptor.class
+org\apache\skywalking\apm\plugin\xmemcached\v2\define\XMemcachedInstrumentation.class
+org\apache\skywalking\apm\plugin\xmemcached\v2\define\XMemcachedInstrumentation$3.class
+org\apache\skywalking\apm\plugin\xmemcached\v2\XMemcachedConstructorWithHostPortArgInterceptor.class
+org\apache\skywalking\apm\plugin\xmemcached\v2\define\XMemcachedInstrumentation$4.class
+org\apache\skywalking\apm\plugin\xmemcached\v2\XMemcachedConstructorWithInetSocketAddressListArgInterceptor.class
+org\apache\skywalking\apm\plugin\xmemcached\v2\define\XMemcachedInstrumentation$1.class
+org\apache\skywalking\apm\plugin\xmemcached\v2\define\XMemcachedInstrumentation$5.class
+org\apache\skywalking\apm\plugin\xmemcached\v2\XMemcachedMethodInterceptor.class
+org\apache\skywalking\apm\plugin\xmemcached\v2\XMemcachedConstructorWithComplexArgInterceptor.class

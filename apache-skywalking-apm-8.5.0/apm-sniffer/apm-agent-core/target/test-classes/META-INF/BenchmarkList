@@ -1,0 +1,2 @@
+JMH S 66 org.apache.skywalking.apm.agent.core.logging.core.LoggingBenchmark S 95 org.apache.skywalking.apm.agent.core.logging.core.generated.LoggingBenchmark_jsonLogger_jmhTest S 10 jsonLogger S 10 SampleTime E A 1 1 1 E E E E E E E I 1 1 I 1 1 E E E E E U 11 NANOSECONDS E E 
+JMH S 66 org.apache.skywalking.apm.agent.core.logging.core.LoggingBenchmark S 98 org.apache.skywalking.apm.agent.core.logging.core.generated.LoggingBenchmark_patternLogger_jmhTest S 13 patternLogger S 10 SampleTime E A 1 1 1 E E E E E E E I 1 1 I 1 1 E E E E E U 11 NANOSECONDS E E 

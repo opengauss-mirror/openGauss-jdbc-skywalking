@@ -1,0 +1,15 @@
+org\apache\skywalking\apm\plugin\jdbc\h2\define\JdbcConnectionInstrumentation.class
+org\apache\skywalking\apm\plugin\jdbc\h2\PooledJdbcConnectionConstructorInterceptor.class
+org\apache\skywalking\apm\plugin\jdbc\h2\define\AbstractConnectionInstrumentation$5.class
+org\apache\skywalking\apm\plugin\jdbc\h2\define\AbstractConnectionInstrumentation$1.class
+org\apache\skywalking\apm\plugin\jdbc\h2\define\JdbcXAConnectionInstrumentation.class
+org\apache\skywalking\apm\plugin\jdbc\h2\define\DriverInstrumentation.class
+org\apache\skywalking\apm\plugin\jdbc\h2\define\PooledJdbcConnectionInstrumentation$1.class
+org\apache\skywalking\apm\plugin\jdbc\h2\JdbcXAConnectionConstructorInterceptor.class
+org\apache\skywalking\apm\plugin\jdbc\h2\define\PooledJdbcConnectionInstrumentation.class
+org\apache\skywalking\apm\plugin\jdbc\h2\define\AbstractConnectionInstrumentation$6.class
+org\apache\skywalking\apm\plugin\jdbc\h2\define\AbstractConnectionInstrumentation$2.class
+org\apache\skywalking\apm\plugin\jdbc\h2\define\AbstractConnectionInstrumentation$3.class
+org\apache\skywalking\apm\plugin\jdbc\h2\define\JdbcXAConnectionInstrumentation$1.class
+org\apache\skywalking\apm\plugin\jdbc\h2\define\AbstractConnectionInstrumentation$4.class
+org\apache\skywalking\apm\plugin\jdbc\h2\define\AbstractConnectionInstrumentation.class

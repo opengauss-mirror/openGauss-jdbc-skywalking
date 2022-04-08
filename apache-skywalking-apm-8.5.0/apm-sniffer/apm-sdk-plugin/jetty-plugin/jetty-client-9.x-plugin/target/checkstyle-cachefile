@@ -1,0 +1,7 @@
+#Thu Jan 27 13:14:59 CST 2022
+configuration*?=CE046BA3F2434A1B180897D5121894F9161FEC37
+module-resource*?\:file\:/E\:/OpenS/sky/apache-skywalking-apm-8.5.0/apm-checkstyle/importControl.xml=ABFB67E42F7636913AA02614BA28721483B81EFC
+E\:\\OpenS\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\jetty-plugin\\jetty-client-9.x-plugin\\src\\main\\java\\org\\apache\\skywalking\\apm\\plugin\\jetty\\v9\\client\\SyncHttpRequestSendInterceptor.java=1617981489000
+module-resource*?\:file\:/E\:/OpenS/sky/apache-skywalking-apm-8.5.0/apm-sniffer/apm-sdk-plugin/jetty-plugin/jetty-client-9.x-plugin/target/checkstyle-header.txt=A0116A1C782CF424D8C4A7D2B281B784D1435163
+E\:\\OpenS\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\jetty-plugin\\jetty-client-9.x-plugin\\src\\test\\java\\org\\apache\\skywalking\\apm\\plugin\\jetty\\v9\\client\\SyncHttpRequestSendInterceptorTest.java=1617981489000
+E\:\\OpenS\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\jetty-plugin\\jetty-client-9.x-plugin\\src\\main\\java\\org\\apache\\skywalking\\apm\\plugin\\jetty\\v9\\client\\define\\HttpRequestInstrumentation.java=1617981489000

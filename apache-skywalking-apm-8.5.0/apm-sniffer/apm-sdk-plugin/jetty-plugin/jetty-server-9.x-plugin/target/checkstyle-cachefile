@@ -1,0 +1,10 @@
+#Thu Jan 27 13:15:00 CST 2022
+E\:\\OpenS\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\jetty-plugin\\jetty-server-9.x-plugin\\src\\main\\java\\org\\apache\\skywalking\\apm\\plugin\\jetty\\v9\\server\\define\\JettyInstrumentation.java=1617981489000
+configuration*?=8CDFD82AA4E15231058364BAA19C63B37ECCB68C
+module-resource*?\:file\:/E\:/OpenS/sky/apache-skywalking-apm-8.5.0/apm-checkstyle/importControl.xml=ABFB67E42F7636913AA02614BA28721483B81EFC
+E\:\\OpenS\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\jetty-plugin\\jetty-server-9.x-plugin\\src\\main\\java\\org\\apache\\skywalking\\apm\\plugin\\jetty\\v9\\server\\define\\DispatcherInstrumentation.java=1617981489000
+E\:\\OpenS\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\jetty-plugin\\jetty-server-9.x-plugin\\src\\main\\java\\org\\apache\\skywalking\\apm\\plugin\\jetty\\v9\\server\\ForwardInterceptor.java=1617981489000
+E\:\\OpenS\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\jetty-plugin\\jetty-server-9.x-plugin\\src\\main\\java\\org\\apache\\skywalking\\apm\\plugin\\jetty\\v9\\server\\Constants.java=1617981489000
+E\:\\OpenS\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\jetty-plugin\\jetty-server-9.x-plugin\\src\\main\\java\\org\\apache\\skywalking\\apm\\plugin\\jetty\\v9\\server\\HandleInterceptor.java=1617981489000
+E\:\\OpenS\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\jetty-plugin\\jetty-server-9.x-plugin\\src\\test\\java\\org\\apache\\skywalking\\apm\\plugin\\jetty\\v9\\server\\HandleInterceptorTest.java=1617981489000
+module-resource*?\:file\:/E\:/OpenS/sky/apache-skywalking-apm-8.5.0/apm-sniffer/apm-sdk-plugin/jetty-plugin/jetty-server-9.x-plugin/target/checkstyle-header.txt=A0116A1C782CF424D8C4A7D2B281B784D1435163

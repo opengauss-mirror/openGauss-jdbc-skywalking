@@ -1,0 +1,3 @@
+org\apache\skywalking\apm\plugin\elasticjob\ElasticJobExecutorInterceptor.class
+org\apache\skywalking\apm\plugin\elasticjob\define\ElasticJobExecutorInstrumentation$1.class
+org\apache\skywalking\apm\plugin\elasticjob\define\ElasticJobExecutorInstrumentation.class

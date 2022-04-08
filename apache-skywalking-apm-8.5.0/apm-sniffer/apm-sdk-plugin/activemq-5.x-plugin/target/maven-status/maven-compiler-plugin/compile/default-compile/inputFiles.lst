@@ -1,0 +1,6 @@
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\activemq-5.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\activemq\ActiveMQProducerInterceptor.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\activemq-5.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\activemq\define\ActiveMQConsumerInstrumentation.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\activemq-5.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\activemq\ActiveMQProducerConstructorInterceptor.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\activemq-5.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\activemq\ActiveMQConsumerInterceptor.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\activemq-5.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\activemq\ActiveMQConsumerConstructorInterceptor.java
+E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\activemq-5.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\activemq\define\ActiveMQProducerInstrumentation.java
