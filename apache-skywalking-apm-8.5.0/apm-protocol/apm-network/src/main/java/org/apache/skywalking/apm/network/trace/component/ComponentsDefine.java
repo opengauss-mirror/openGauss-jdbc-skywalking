@@ -209,4 +209,11 @@ public class ComponentsDefine {
 
     public static final OfficialComponent DB2_JDBC_DRIVER = new OfficialComponent(113, "db2-jdbc-driver");
 
+    public static final OfficialComponent DB2 = new OfficialComponent(114, "DB2");
+
+    public static final OfficialComponent OPENGAUSS = new OfficialComponent(115, "OpenGauss");
+
+    public static final OfficialComponent OPENGAUSS_DRIVER = new OfficialComponent(116, "opengauss-jdbc-driver");
+
+
 }
