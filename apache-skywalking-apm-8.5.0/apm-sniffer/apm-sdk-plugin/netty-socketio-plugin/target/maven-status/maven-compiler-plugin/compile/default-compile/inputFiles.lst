@@ -1,7 +1,0 @@
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\netty-socketio-plugin\src\main\java\org\apache\skywalking\apm\plugin\netty\socketio\NettySocketIOOnEventInterceptor.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\netty-socketio-plugin\src\main\java\org\apache\skywalking\apm\plugin\netty\socketio\NettySocketIOClientInfo.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\netty-socketio-plugin\src\main\java\org\apache\skywalking\apm\plugin\netty\socketio\NettySocketIORoomInterceptor.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\netty-socketio-plugin\src\main\java\org\apache\skywalking\apm\plugin\netty\socketio\NettySocketIOConstructorInterceptor.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\netty-socketio-plugin\src\main\java\org\apache\skywalking\apm\plugin\netty\socketio\define\NettySocketIOPluginNameSpaceInstrumentation.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\netty-socketio-plugin\src\main\java\org\apache\skywalking\apm\plugin\netty\socketio\NettySocketIOConnectionInterceptor.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\netty-socketio-plugin\src\main\java\org\apache\skywalking\apm\plugin\netty\socketio\define\NettySocketIOPluginClientInstrumentation.java

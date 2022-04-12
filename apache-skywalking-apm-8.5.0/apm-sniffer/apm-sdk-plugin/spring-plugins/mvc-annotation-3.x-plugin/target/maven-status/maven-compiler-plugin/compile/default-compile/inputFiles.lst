@@ -1,7 +1,0 @@
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\spring-plugins\mvc-annotation-3.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\spring\mvc\v3\define\ControllerInstrumentation.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\spring-plugins\mvc-annotation-3.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\spring\mvc\v3\ControllerConstructorInterceptor.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\spring-plugins\mvc-annotation-3.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\spring\mvc\v3\define\HandlerMethodInvokerInstrumentation.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\spring-plugins\mvc-annotation-3.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\spring\mvc\v3\define\AbstractSpring3Instrumentation.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\spring-plugins\mvc-annotation-3.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\spring\mvc\v3\define\HandlerMethodInstrumentation.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\spring-plugins\mvc-annotation-3.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\spring\mvc\v3\HandlerMethodInvokerInterceptor.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\spring-plugins\mvc-annotation-3.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\spring\mvc\v3\define\InvocableHandlerInstrumentation.java

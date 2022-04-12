@@ -1,9 +1,0 @@
-org\apache\skywalking\apm\plugin\canal\define\CanalInstrumentation$1.class
-org\apache\skywalking\apm\plugin\canal\define\CanalInstrumentation.class
-org\apache\skywalking\apm\plugin\canal\CanalEnhanceInfo.class
-org\apache\skywalking\apm\plugin\canal\define\ClusterNodeInstrumentation$1.class
-org\apache\skywalking\apm\plugin\canal\define\ClusterNodeInstrumentation.class
-org\apache\skywalking\apm\plugin\canal\CanalInterceptor.class
-org\apache\skywalking\apm\plugin\canal\ClusterNodeConstructInterceptor.class
-org\apache\skywalking\apm\plugin\canal\define\CanalInstrumentation$2.class
-org\apache\skywalking\apm\plugin\canal\CanalConstructorInterceptor.class

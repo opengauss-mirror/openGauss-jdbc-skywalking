@@ -1,7 +1,0 @@
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\redisson-3.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\redisson\v3\util\ClassUtil.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\redisson-3.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\redisson\v3\define\RedisConnectionInstrumentation.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\redisson-3.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\redisson\v3\ConnectionManagerInterceptor.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\redisson-3.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\redisson\v3\RedisClientConstructorInterceptor.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\redisson-3.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\redisson\v3\RedisConnectionMethodInterceptor.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\redisson-3.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\redisson\v3\define\ConnectionManagerInstrumentation.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\redisson-3.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\redisson\v3\define\RedisClientInstrumentation.java

@@ -1,9 +1,0 @@
-org\apache\skywalking\apm\plugin\rabbitmq\define\RabbitMQConsumerInstrumentation$1.class
-org\apache\skywalking\apm\plugin\rabbitmq\define\RabbitMQConsumerInstrumentation$2.class
-org\apache\skywalking\apm\plugin\rabbitmq\RabbitMQProducerInterceptor.class
-org\apache\skywalking\apm\plugin\rabbitmq\RabbitMQConsumerInterceptor.class
-org\apache\skywalking\apm\plugin\rabbitmq\define\RabbitMQProducerInstrumentation$2.class
-org\apache\skywalking\apm\plugin\rabbitmq\define\RabbitMQConsumerInstrumentation.class
-org\apache\skywalking\apm\plugin\rabbitmq\define\RabbitMQProducerInstrumentation$1.class
-org\apache\skywalking\apm\plugin\rabbitmq\RabbitMQProducerAndConsumerConstructorInterceptor.class
-org\apache\skywalking\apm\plugin\rabbitmq\define\RabbitMQProducerInstrumentation.class

@@ -1,6 +1,0 @@
-org\apache\skywalking\apm\plugin\servicecomb\define\ProducerOperationHandlerInstrumentation.class
-org\apache\skywalking\apm\plugin\servicecomb\define\ProducerOperationHandlerInstrumentation$1.class
-org\apache\skywalking\apm\plugin\servicecomb\define\TransportClientHandlerInstrumentation.class
-org\apache\skywalking\apm\plugin\servicecomb\ProducerOperationHandlerInterceptor.class
-org\apache\skywalking\apm\plugin\servicecomb\TransportClientHandlerInterceptor.class
-org\apache\skywalking\apm\plugin\servicecomb\define\TransportClientHandlerInstrumentation$1.class

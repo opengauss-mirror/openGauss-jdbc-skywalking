@@ -1,7 +1,0 @@
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\h2-1.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\jdbc\h2\define\PooledJdbcConnectionInstrumentation.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\h2-1.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\jdbc\h2\define\DriverInstrumentation.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\h2-1.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\jdbc\h2\define\JdbcXAConnectionInstrumentation.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\h2-1.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\jdbc\h2\JdbcXAConnectionConstructorInterceptor.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\h2-1.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\jdbc\h2\define\AbstractConnectionInstrumentation.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\h2-1.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\jdbc\h2\PooledJdbcConnectionConstructorInterceptor.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\h2-1.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\jdbc\h2\define\JdbcConnectionInstrumentation.java

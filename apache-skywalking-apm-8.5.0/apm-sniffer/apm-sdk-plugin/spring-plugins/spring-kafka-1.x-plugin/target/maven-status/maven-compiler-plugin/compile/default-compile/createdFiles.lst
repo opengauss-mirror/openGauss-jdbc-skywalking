@@ -1,5 +1,0 @@
-org\apache\skywalking\apm\plugin\spring\kafka\PostRunMethodInterceptor.class
-org\apache\skywalking\apm\plugin\spring\kafka\define\LegacyListenerConsumerInstrumentation$1.class
-org\apache\skywalking\apm\plugin\spring\kafka\ProcessSeeksMethodInterceptor.class
-org\apache\skywalking\apm\plugin\spring\kafka\define\LegacyListenerConsumerInstrumentation.class
-org\apache\skywalking\apm\plugin\spring\kafka\define\LegacyListenerConsumerInstrumentation$2.class

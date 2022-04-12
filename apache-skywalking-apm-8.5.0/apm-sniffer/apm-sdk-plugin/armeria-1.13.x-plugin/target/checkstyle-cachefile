@@ -1,7 +1,0 @@
-#Tue Feb 08 10:09:21 CST 2022
-D\:\\sky\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\armeria-1.13.x-plugin\\src\\main\\java\\org\\apache\\skywalking\\apm\\plugin\\armeria\\ArmeriaClientInterceptor.java=1643262317151
-module-resource*?\:file\:/D\:/sky/sky/apache-skywalking-apm-8.5.0/apm-sniffer/apm-sdk-plugin/armeria-1.13.x-plugin/target/checkstyle-header.txt=A0116A1C782CF424D8C4A7D2B281B784D1435163
-module-resource*?\:file\:/D\:/sky/sky/apache-skywalking-apm-8.5.0/apm-checkstyle/importControl.xml=ABFB67E42F7636913AA02614BA28721483B81EFC
-D\:\\sky\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\armeria-1.13.x-plugin\\src\\main\\java\\org\\apache\\skywalking\\apm\\plugin\\armeria\\Armeria113ClientInterceptor.java=1643274932149
-D\:\\sky\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\armeria-1.13.x-plugin\\src\\main\\java\\org\\apache\\skywalking\\apm\\plugin\\armeria\\define\\Armeria113ClientInstrumentation.java=1643261028574
-configuration*?=2342B201E897C2A34D9F86ACB21F7D473D0DE84F

@@ -1,8 +1,0 @@
-#Thu Jan 27 13:16:14 CST 2022
-configuration*?=DDD8D3C8B6F3F964815BCB5470B2D44E1E6BBFCC
-module-resource*?\:file\:/E\:/OpenS/sky/apache-skywalking-apm-8.5.0/apm-checkstyle/importControl.xml=ABFB67E42F7636913AA02614BA28721483B81EFC
-E\:\\OpenS\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\light4j-plugins\\light4j-plugin\\src\\main\\java\\org\\apache\\skywalking\\apm\\plugin\\light4j\\HandleRequestInterceptor.java=1617981489000
-module-resource*?\:file\:/E\:/OpenS/sky/apache-skywalking-apm-8.5.0/apm-sniffer/apm-sdk-plugin/light4j-plugins/light4j-plugin/target/checkstyle-header.txt=A0116A1C782CF424D8C4A7D2B281B784D1435163
-E\:\\OpenS\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\light4j-plugins\\light4j-plugin\\src\\main\\java\\org\\apache\\skywalking\\apm\\plugin\\light4j\\define\\LightInstrumentation.java=1617981489000
-E\:\\OpenS\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\light4j-plugins\\light4j-plugin\\src\\main\\java\\org\\apache\\skywalking\\apm\\plugin\\light4j\\Light4JPluginConfig.java=1617981489000
-E\:\\OpenS\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\light4j-plugins\\light4j-plugin\\src\\test\\java\\org\\apache\\skywalking\\apm\\plugin\\light4j\\HandleRequestInterceptorTest.java=1617981489000

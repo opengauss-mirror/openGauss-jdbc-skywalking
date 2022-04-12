@@ -1,6 +1,0 @@
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\nutz-plugins\http-1.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\nutz\http\sync\define\AbstractNutzHttpInstrumentation.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\nutz-plugins\http-1.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\nutz\http\sync\SenderSendInterceptor.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\nutz-plugins\http-1.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\nutz\http\sync\define\NutzHttpFilePostSenderInstrumentation.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\nutz-plugins\http-1.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\nutz\http\sync\SenderConstructorInterceptor.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\nutz-plugins\http-1.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\nutz\http\sync\define\NutzHttpPostSenderInstrumentation.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\nutz-plugins\http-1.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\nutz\http\sync\define\NutzHttpGetSenderInstrumentation.java

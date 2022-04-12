@@ -1,8 +1,0 @@
-org\apache\skywalking\apm\plugin\jetty\v9\server\define\DispatcherInstrumentation.class
-org\apache\skywalking\apm\plugin\jetty\v9\server\HandleInterceptor.class
-org\apache\skywalking\apm\plugin\jetty\v9\server\define\JettyInstrumentation$1.class
-org\apache\skywalking\apm\plugin\jetty\v9\server\Constants.class
-org\apache\skywalking\apm\plugin\jetty\v9\server\define\DispatcherInstrumentation$1.class
-org\apache\skywalking\apm\plugin\jetty\v9\server\ForwardInterceptor.class
-org\apache\skywalking\apm\plugin\jetty\v9\server\define\JettyInstrumentation.class
-org\apache\skywalking\apm\plugin\jetty\v9\server\define\DispatcherInstrumentation$2.class

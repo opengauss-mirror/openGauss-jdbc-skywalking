@@ -1,9 +1,0 @@
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\okhttp-3.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\okhttp\v3\AsyncCallInterceptor.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\okhttp-3.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\okhttp\v3\define\RealCallInstrumentation.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\okhttp-3.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\okhttp\v3\OnFailureInterceptor.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\okhttp-3.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\okhttp\v3\RealCallInterceptor.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\okhttp-3.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\okhttp\v3\define\AsyncCallInstrumentation.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\okhttp-3.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\okhttp\v3\define\CallbackInstrumentation.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\okhttp-3.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\okhttp\v3\EnqueueInterceptor.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\okhttp-3.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\okhttp\v3\OnResponseInterceptor.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\okhttp-3.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\okhttp\v3\EnhanceRequiredInfo.java

@@ -1,4 +1,0 @@
-org\apache\skywalking\apm\plugin\spring\async\define\AsyncExecutionInterceptorInstrumentation$1.class
-org\apache\skywalking\apm\plugin\spring\async\DoSubmitMethodInterceptor.class
-org\apache\skywalking\apm\plugin\spring\async\define\AsyncExecutionInterceptorInstrumentation.class
-org\apache\skywalking\apm\plugin\spring\async\SWCallable.class

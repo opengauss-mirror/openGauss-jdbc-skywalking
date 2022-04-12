@@ -1,5 +1,0 @@
-org\apache\skywalking\apm\plugin\resteasy\v3\server\SynchronousDispatcherInterceptor.class
-org\apache\skywalking\apm\plugin\resteasy\v3\server\define\SynchronousDispatcherInstrumentation$1.class
-org\apache\skywalking\apm\plugin\resteasy\v3\server\define\SynchronousDispatcherInstrumentation$2.class
-org\apache\skywalking\apm\plugin\resteasy\v3\server\define\SynchronousDispatcherInstrumentation.class
-org\apache\skywalking\apm\plugin\resteasy\v3\server\SynchronousDispatcherExceptionInterceptor.class

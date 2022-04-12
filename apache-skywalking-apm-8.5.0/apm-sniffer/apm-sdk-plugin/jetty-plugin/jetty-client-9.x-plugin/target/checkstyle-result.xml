@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<checkstyle version="8.19">
-<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\jetty-plugin\jetty-client-9.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\jetty\v9\client\define\HttpRequestInstrumentation.java">
-</file>
-<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\jetty-plugin\jetty-client-9.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\jetty\v9\client\SyncHttpRequestSendInterceptor.java">
-</file>
-<file name="E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\jetty-plugin\jetty-client-9.x-plugin\src\test\java\org\apache\skywalking\apm\plugin\jetty\v9\client\SyncHttpRequestSendInterceptorTest.java">
-</file>
-</checkstyle>

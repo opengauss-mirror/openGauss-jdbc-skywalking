@@ -1,8 +1,0 @@
-org\apache\skywalking\apm\plugin\nutz\http\sync\SenderConstructorInterceptor.class
-org\apache\skywalking\apm\plugin\nutz\http\sync\define\AbstractNutzHttpInstrumentation$2.class
-org\apache\skywalking\apm\plugin\nutz\http\sync\define\NutzHttpPostSenderInstrumentation.class
-org\apache\skywalking\apm\plugin\nutz\http\sync\define\NutzHttpGetSenderInstrumentation.class
-org\apache\skywalking\apm\plugin\nutz\http\sync\define\AbstractNutzHttpInstrumentation$1.class
-org\apache\skywalking\apm\plugin\nutz\http\sync\define\NutzHttpFilePostSenderInstrumentation.class
-org\apache\skywalking\apm\plugin\nutz\http\sync\define\AbstractNutzHttpInstrumentation.class
-org\apache\skywalking\apm\plugin\nutz\http\sync\SenderSendInterceptor.class

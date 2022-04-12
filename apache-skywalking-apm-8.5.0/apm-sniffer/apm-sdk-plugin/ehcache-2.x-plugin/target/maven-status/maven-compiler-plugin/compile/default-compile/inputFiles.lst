@@ -1,9 +1,0 @@
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\ehcache-2.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\ehcache\v2\EhcacheEnhanceInfo.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\ehcache-2.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\ehcache\v2\EhcachePrivateConstructorInterceptor.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\ehcache-2.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\ehcache\v2\EhcacheCacheNameInterceptor.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\ehcache-2.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\ehcache\v2\EhcacheOperateAllInterceptor.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\ehcache-2.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\ehcache\v2\define\EhcachePluginInstrumentation.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\ehcache-2.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\ehcache\v2\EhcacheOperateElementInterceptor.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\ehcache-2.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\ehcache\v2\EhcacheConstructorInterceptor.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\ehcache-2.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\ehcache\v2\EhcacheOperateObjectInterceptor.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\ehcache-2.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\ehcache\v2\EhcacheLockInterceptor.java

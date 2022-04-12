@@ -1,2 +1,0 @@
-org.apache.skywalking.apm.dependencies.io.grpc.internal.PickFirstLoadBalancerProvider
-org.apache.skywalking.apm.dependencies.io.grpc.util.SecretRoundRobinLoadBalancerProvider$Provider

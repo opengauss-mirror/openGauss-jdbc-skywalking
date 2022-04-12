@@ -1,4 +1,0 @@
-org\apache\skywalking\apm\plugin\armeria\ArmeriaClientInterceptor.class
-org\apache\skywalking\apm\plugin\armeria\define\Armeria113ClientInstrumentation.class
-org\apache\skywalking\apm\plugin\armeria\Armeria113ClientInterceptor.class
-org\apache\skywalking\apm\plugin\armeria\define\Armeria113ClientInstrumentation$1.class

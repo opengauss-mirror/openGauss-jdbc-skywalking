@@ -1,7 +1,0 @@
-#Thu Jan 27 13:14:53 CST 2022
-configuration*?=B16E5363C1FF07D555EFD5159EC4B32278430DAB
-module-resource*?\:file\:/E\:/OpenS/sky/apache-skywalking-apm-8.5.0/apm-checkstyle/importControl.xml=ABFB67E42F7636913AA02614BA28721483B81EFC
-E\:\\OpenS\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\spring-plugins\\spring-kafka-1.x-plugin\\src\\main\\java\\org\\apache\\skywalking\\apm\\plugin\\spring\\kafka\\define\\LegacyListenerConsumerInstrumentation.java=1617981489000
-E\:\\OpenS\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\spring-plugins\\spring-kafka-1.x-plugin\\src\\main\\java\\org\\apache\\skywalking\\apm\\plugin\\spring\\kafka\\ProcessSeeksMethodInterceptor.java=1617981489000
-module-resource*?\:file\:/E\:/OpenS/sky/apache-skywalking-apm-8.5.0/apm-sniffer/apm-sdk-plugin/spring-plugins/spring-kafka-1.x-plugin/target/checkstyle-header.txt=A0116A1C782CF424D8C4A7D2B281B784D1435163
-E\:\\OpenS\\sky\\apache-skywalking-apm-8.5.0\\apm-sniffer\\apm-sdk-plugin\\spring-plugins\\spring-kafka-1.x-plugin\\src\\main\\java\\org\\apache\\skywalking\\apm\\plugin\\spring\\kafka\\PostRunMethodInterceptor.java=1617981489000

@@ -1,9 +1,0 @@
-org\apache\skywalking\apm\plugin\sjdbc\define\ExecutorInstrumentation$2.class
-org\apache\skywalking\apm\plugin\sjdbc\define\ExecutorInstrumentation$1.class
-org\apache\skywalking\apm\plugin\sjdbc\define\ExecutorInstrumentation.class
-org\apache\skywalking\apm\plugin\sjdbc\define\ExecuteInterceptor.class
-org\apache\skywalking\apm\plugin\sjdbc\ExecuteEventListener$1.class
-org\apache\skywalking\apm\plugin\sjdbc\define\ExecutorEngineConstructorInterceptor.class
-org\apache\skywalking\apm\plugin\sjdbc\define\AsyncExecuteInterceptor.class
-org\apache\skywalking\apm\plugin\sjdbc\define\ExecutorInstrumentation$3.class
-org\apache\skywalking\apm\plugin\sjdbc\ExecuteEventListener.class

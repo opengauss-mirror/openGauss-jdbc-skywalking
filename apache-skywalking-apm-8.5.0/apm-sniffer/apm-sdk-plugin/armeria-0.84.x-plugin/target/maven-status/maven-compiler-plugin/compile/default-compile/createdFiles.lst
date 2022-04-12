@@ -1,6 +1,0 @@
-org\apache\skywalking\apm\plugin\armeria\define\Armeria084ClientInstrumentation.class
-org\apache\skywalking\apm\plugin\armeria\Armeria084ServerInterceptor.class
-org\apache\skywalking\apm\plugin\armeria\define\Armeria084ClientInstrumentation$1.class
-org\apache\skywalking\apm\plugin\armeria\define\Armeria084ServerInstrumentation$1.class
-org\apache\skywalking\apm\plugin\armeria\define\Armeria084ServerInstrumentation.class
-org\apache\skywalking\apm\plugin\armeria\Armeria084ClientInterceptor.class

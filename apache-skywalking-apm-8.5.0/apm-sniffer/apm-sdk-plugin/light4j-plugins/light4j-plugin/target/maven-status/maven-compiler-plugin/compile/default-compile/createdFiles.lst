@@ -1,6 +1,0 @@
-org\apache\skywalking\apm\plugin\light4j\Light4JPluginConfig.class
-org\apache\skywalking\apm\plugin\light4j\define\LightInstrumentation$1.class
-org\apache\skywalking\apm\plugin\light4j\define\LightInstrumentation.class
-org\apache\skywalking\apm\plugin\light4j\HandleRequestInterceptor.class
-org\apache\skywalking\apm\plugin\light4j\Light4JPluginConfig$Plugin$Light4J.class
-org\apache\skywalking\apm\plugin\light4j\Light4JPluginConfig$Plugin.class

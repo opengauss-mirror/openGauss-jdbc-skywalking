@@ -1,6 +1,0 @@
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\xmemcached-2.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\xmemcached\v2\XMemcachedConstructorWithComplexArgInterceptor.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\xmemcached-2.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\xmemcached\v2\XMemcachedConstructorWithInetSocketAddressArgInterceptor.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\xmemcached-2.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\xmemcached\v2\define\XMemcachedInstrumentation.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\xmemcached-2.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\xmemcached\v2\XMemcachedConstructorWithHostPortArgInterceptor.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\xmemcached-2.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\xmemcached\v2\XMemcachedConstructorWithInetSocketAddressListArgInterceptor.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\xmemcached-2.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\xmemcached\v2\XMemcachedMethodInterceptor.java

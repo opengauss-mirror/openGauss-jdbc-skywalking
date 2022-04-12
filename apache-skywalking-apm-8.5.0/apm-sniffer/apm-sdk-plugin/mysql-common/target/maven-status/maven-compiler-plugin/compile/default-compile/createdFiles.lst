@@ -1,9 +1,0 @@
-org\apache\skywalking\apm\plugin\jdbc\mysql\DriverConnectInterceptor.class
-org\apache\skywalking\apm\plugin\jdbc\mysql\ConnectionCache.class
-org\apache\skywalking\apm\plugin\jdbc\mysql\Constants.class
-org\apache\skywalking\apm\plugin\jdbc\mysql\CreatePreparedStatementInterceptor.class
-org\apache\skywalking\apm\plugin\jdbc\mysql\CreateStatementInterceptor.class
-org\apache\skywalking\apm\plugin\jdbc\mysql\CreateCallableStatementInterceptor.class
-org\apache\skywalking\apm\plugin\jdbc\mysql\SetCatalogInterceptor.class
-org\apache\skywalking\apm\plugin\jdbc\mysql\PreparedStatementExecuteMethodsInterceptor.class
-org\apache\skywalking\apm\plugin\jdbc\mysql\StatementExecuteMethodsInterceptor.class

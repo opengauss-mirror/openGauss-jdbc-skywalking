@@ -1,4 +1,0 @@
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\spring-plugins\spring-webflux-5.x-webclient-plugin\src\main\java\org\apache\skywalking\apm\plugin\spring\webflux\v5\webclient\define\BodyInserterRequestInstrumentation.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\spring-plugins\spring-webflux-5.x-webclient-plugin\src\main\java\org\apache\skywalking\apm\plugin\spring\webflux\v5\webclient\BodyInserterRequestInterceptor.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\spring-plugins\spring-webflux-5.x-webclient-plugin\src\main\java\org\apache\skywalking\apm\plugin\spring\webflux\v5\webclient\WebFluxWebClientInterceptor.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\spring-plugins\spring-webflux-5.x-webclient-plugin\src\main\java\org\apache\skywalking\apm\plugin\spring\webflux\v5\webclient\define\WebFluxWebClientInstrumentation.java

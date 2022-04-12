@@ -1,5 +1,0 @@
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\jetty-plugin\jetty-server-9.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\jetty\v9\server\define\DispatcherInstrumentation.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\jetty-plugin\jetty-server-9.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\jetty\v9\server\HandleInterceptor.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\jetty-plugin\jetty-server-9.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\jetty\v9\server\define\JettyInstrumentation.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\jetty-plugin\jetty-server-9.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\jetty\v9\server\Constants.java
-E:\OpenS\sky\apache-skywalking-apm-8.5.0\apm-sniffer\apm-sdk-plugin\jetty-plugin\jetty-server-9.x-plugin\src\main\java\org\apache\skywalking\apm\plugin\jetty\v9\server\ForwardInterceptor.java
