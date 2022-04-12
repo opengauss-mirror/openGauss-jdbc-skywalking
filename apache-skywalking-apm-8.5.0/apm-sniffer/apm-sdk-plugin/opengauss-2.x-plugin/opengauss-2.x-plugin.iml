@@ -10,7 +10,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Maven: org.opengauss:opengauss-jdbc:2.0.1-compatibility" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.opengauss:opengauss-jdbc:2.0.1-compatibility" level="project" />
     <orderEntry type="module" module-name="apm-jdbc-commons" scope="PROVIDED" />
     <orderEntry type="module" module-name="apm-agent-core" scope="PROVIDED" />
     <orderEntry type="module" module-name="apm-network" scope="PROVIDED" />

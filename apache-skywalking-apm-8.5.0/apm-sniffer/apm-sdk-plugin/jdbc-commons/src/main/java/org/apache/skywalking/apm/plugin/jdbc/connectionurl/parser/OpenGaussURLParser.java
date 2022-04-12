@@ -23,8 +23,6 @@ import org.apache.skywalking.apm.agent.core.logging.api.LogManager;
 import org.apache.skywalking.apm.network.trace.component.ComponentsDefine;
 import org.apache.skywalking.apm.plugin.jdbc.trace.ConnectionInfo;
 
-import java.util.Arrays;
-
 /**
  * {@link OpenGaussURLParser} parse connection url of OpenGauss.
  */

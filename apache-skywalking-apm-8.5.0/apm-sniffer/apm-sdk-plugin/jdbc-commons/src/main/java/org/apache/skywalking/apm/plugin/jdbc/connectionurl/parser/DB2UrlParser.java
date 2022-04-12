@@ -63,5 +63,4 @@ public class DB2UrlParser extends AbstractURLParser {
         return new ConnectionInfo(component, dbType, host, fetchDatabaseNameFromURL());
     }
 
-
 }
